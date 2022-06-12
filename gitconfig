@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bipin_r@live.com
+	name = bipin ramkhalawon
